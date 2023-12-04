@@ -3,6 +3,7 @@ EES4725
 ## Module Organization and Materials
 
 ### Schedule
+
 | Date       | Lecture          | Lecture Materials | Lab    | Lab Materials    | Deliverables   |
 | ---------- | ---------------- | ------------------ | ------| ----------------- | --------------- |
 | 2023-01-01 | Introduction     | [Slides](#)        | Lab 1  | [Lab Materials](#) | Assignment 1   |
