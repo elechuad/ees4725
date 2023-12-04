@@ -1,7 +1,13 @@
 EES4725 - Digital Circuits and FPGA Design
 ---
-## Module Organization and Materials
 
+## Reference Book - 
+#### D. Harris, S. Harris, Digital Design and Computer Architecture (1st ed.), Morgan Kaufmann, 2007
+
+## Reference Materials -
+#### IEEE Standard Verilog® Hardware Description Language [IEEE Std 1364-2001](http://www-inst.eecs.berkeley.edu/~cs150/fa06/Labs/verilog-ieee.pdf)
+
+## Module Organization and Materials
 
 
 ### Week 1 Schedule
