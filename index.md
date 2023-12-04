@@ -3,10 +3,6 @@ EES4725
 This is the resource site for EES4725. 
 ---
 
-<!-- This is a comment in Markdown -->
-<! # Header 1 to ###### Header 6, big to small -->
-<! List just type with * , Enum just type with 1.2.3. # Header 1 to ###### Header 6, big to small -->
----
 # Module Organization and Materials
 
 | Week | Day | Date       | Lecture          | Lecture Materials | Lab | Lab Materials   | Deliverables   |
@@ -44,9 +40,6 @@ var fun = function lang(l) {
   return true;
 }
 ```
-
-
-###### Header 6
 
 
 
