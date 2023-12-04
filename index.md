@@ -8,10 +8,10 @@ EES4725
 
 | Date   | Lecture                                                                                                                              | Lecture Materials  | Lab             | Lab Materials    | Deliverables   |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ | --------------- | ---------------- | --------------- |
-| Monday <br> 11 Dec | Module Introduction <br> Review of number systems, binary arithmetic, 2's Complement <br> Introduction to Verilog                    | [Slides](OOStatecharts.pdf)        | --              |                   |  Vivado Software Installation  |
-| Tuesday <br> 12 Dec | Review of boolean algebra, truth tables, logic gates, logic minimization and karnaugh maps. <br> Logic gates in Verilog              | [Slides](test2.txt)       | --              |                   |               |
+| Monday <br> 11 Dec | Lecture 1 <br> Module Introduction <br> Review of number systems, binary arithmetic, 2's Complement <br> Introduction to Verilog                    | [Slides](OOStatecharts.pdf)        | --              |                   |  Vivado Software Installation  |
+| Tuesday <br> 12 Dec | Lecture 2 <br> Review of boolean algebra, truth tables, logic gates, logic minimization and karnaugh maps. <br> Logic gates in Verilog              | [Slides](test2.txt)       | --              |                   |               |
 | Wednesday <br> 13 Dec | --         |        | Lab 1 - 5% <br> Introduction to Vivado <br> Simulation/ Implementation of combinational logic    | [Lab 1 Manual](test1.txt) <br> [Basys3.xdc](test1.txt)  | Lab Assignment 1  - 5%      |
-| Thursday <br> 14 Dec | Combinational logic in Verilog using dataflow, behavioural and structural modeling styles. <br> Exercise Problems          | [Slides](test1.txt)        | -- | |    |
+| Thursday <br> 14 Dec | Lecture 3 <br> Combinational logic in Verilog using dataflow, behavioural and structural modeling styles. <br> Exercise Problems          | [Slides](test1.txt)        | -- | |    |
 | Friday <br> 15 Dec | --         |       | Lab 2 - 5%  <br> Structural and Dataflow modeling of combinational logic  | [Lab 2 Manual](test1.txt)   | Lab Assignment 2  - 5%      |
 
 ---
