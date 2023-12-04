@@ -6,7 +6,7 @@ This is the resource site for EES4725.
 # Module Organization and Materials
 
 | Week | Day | Date       | Lecture          | Lecture Materials | Lab | Lab Materials   | Deliverables   |
-| ---- | --- | ---------- | ---------------- | ------------------ | --- | --------------- | --------------- |
+| --- | --- | ---------- | ---------------- | ------------------ | --- | --------------- | --------------- |
 | 1    | Mon | 2023-01-01 | 'Introduction'     | [Slides](#)        | Lab 1 | [Lab Materials](#) | Assignment 1   |
 | 1    | Wed | 2023-01-03 | Topic 1           | [Slides](#)        | Lab 2 | [Lab Materials](#) | -              |
 | 2    | Mon | 2023-01-08 | Topic 2           | [Slides](#)        | Lab 3 | [Lab Materials](#) | Quiz 1         |
