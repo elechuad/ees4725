@@ -5,12 +5,13 @@ This is the resource site for EES4725.
 
 # Module Organization and Materials
 
-| Day | Date       | Lecture          | Lecture Materials | Lab | Lab Materials   | Deliverables   |
-| --- | --- | ---------- | ---------------- | ------------------ | --- | --------------- | --------------- |
-|  W1 Mon | 2023-01-01 | 'Introduction'     | [Slides](#)        | Lab 1 | [Lab Materials](#) | Assignment 1   |
-|  W1 Wed | 2023-01-03 | Topic 1           | [Slides](#)        | Lab 2 | [Lab Materials](#) | -              |
-|  W2 Mon | 2023-01-08 | Topic 2           | [Slides](#)        | Lab 3 | [Lab Materials](#) | Quiz 1         |
-|  W2 Wed | 2023-01-10 | Topic 3           | [Slides](#)        | Lab 4 | [Lab Materials](#) | Assignment 2   |
+### Schedule
+| Day     | Date       | Lecture          | Lecture Materials  | Lab   | Lab Materials   | Deliverables   |
+| ------- | -----------| -----------------| ------------------ | ------|-----------------| --------------- |
+|  W1 Mon | 2023-01-01 | 'Introduction'   | [Slides](#)        | Lab 1 | [Lab Materials](#) | Assignment 1   |
+|  W1 Wed | 2023-01-03 | Topic 1          | [Slides](#)        | Lab 2 | [Lab Materials](#) | -              |
+|  W2 Mon | 2023-01-08 | Topic 2          | [Slides](#)        | Lab 3 | [Lab Materials](#) | Quiz 1         |
+|  W2 Wed | 2023-01-10 | Topic 3          | [Slides](#)        | Lab 4 | [Lab Materials](#) | Assignment 2   |
 
 
 ---
