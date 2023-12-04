@@ -1,7 +1,24 @@
 EES4725
 ---
-Some Text inside here? Can be linked
+This is the resource site for EES4725. 
 ---
+
+<!-- This is a comment in Markdown -->
+<! # Header 1 to ###### Header 6, big to small -->
+<! List just type with * , Enum just type with 1.2.3. # Header 1 to ###### Header 6, big to small -->
+---
+# Module Organization and Materials
+
+| Week | Day | Date       | Lecture          | Lecture Materials | Lab | Lab Materials   | Deliverables   |
+| ---- | --- | ---------- | ---------------- | ------------------ | --- | --------------- | --------------- |
+| 1    | Mon | 2023-01-01 | 'Introduction'     | [Slides](#)        | Lab 1 | [Lab Materials](#) | Assignment 1   |
+| 1    | Wed | 2023-01-03 | Topic 1           | [Slides](#)        | Lab 2 | [Lab Materials](#) | -              |
+| 2    | Mon | 2023-01-08 | Topic 2           | [Slides](#)        | Lab 3 | [Lab Materials](#) | Quiz 1         |
+| 2    | Wed | 2023-01-10 | Topic 3           | [Slides](#)        | Lab 4 | [Lab Materials](#) | Assignment 2   |
+
+
+---
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -9,12 +26,9 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+There should be whitespace between paragraphs.
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
+---
 ## Header 2
 
 > This is a blockquote following a header.
@@ -31,33 +45,10 @@ var fun = function lang(l) {
 }
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
 
 ###### Header 6
 
-| head1        | head two          | three |
-|:-------------|:------------------|:-----------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+
 
 ### There's a horizontal rule below this.
 
