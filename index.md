@@ -1,4 +1,4 @@
-EES4725
+EES4725 - Digital Circuits and FPGA Design
 ---
 ## Module Organization and Materials
 
