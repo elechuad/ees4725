@@ -5,12 +5,12 @@ EES4725 - Digital Circuits and FPGA Design
 #### D. Harris, S. Harris, Digital Design and Computer Architecture (1st ed.), Morgan Kaufmann, 2007
 
 ## Reference Materials -
-#### IEEE Standard Verilog® Hardware Description Language [IEEE Std 1364-2001](http://www-inst.eecs.berkeley.edu/~cs150/fa06/Labs/verilog-ieee.pdf)
+#### IEEE Standard Verilog® Hardware Description Language  [IEEE Std 1364-2001](http://www-inst.eecs.berkeley.edu/~cs150/fa06/Labs/verilog-ieee.pdf)
 
 ## Module Organization and Materials
 
 
-### Week 1 Schedule
+#### Week 1 Schedule
 
 | Date   | Lecture                                                                                                                              | Lecture Materials  | Lab             | Lab Materials    | Deliverables   |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ | --------------- | ---------------- | --------------- |
