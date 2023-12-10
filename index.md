@@ -8,7 +8,10 @@ EES4725 - Digital Circuits and FPGA Design
 [Chap4 on Verilog Link](./Reference/Chap4.pdf)
 
 ## Reference Materials -
-#### IEEE Standard Verilog® Hardware Description Language [IEEE Std 1364-2001](http://www-inst.eecs.berkeley.edu/~cs150/fa06/Labs/verilog-ieee.pdf) [Alternative Link](./Reference/verilog-ieee.pdf)
+#### IEEE Standard Verilog® Hardware Description Language
+[IEEE Std 1364-2001](http://www-inst.eecs.berkeley.edu/~cs150/fa06/Labs/verilog-ieee.pdf) 
+
+[Alternative Link](./Reference/verilog-ieee.pdf)
 
 ## Module Organization and Materials
 
