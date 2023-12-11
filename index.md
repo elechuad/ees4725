@@ -13,6 +13,9 @@ EES4725 - Digital Circuits and FPGA Design
 
 [Alternative Link](./Reference/verilog-ieee.pdf)
 
+#### Basys-3 Digilent Official Reference
+[Link](https://digilent.com/reference/programmable-logic/basys-3/start)
+
 ## Module Organization and Materials
 
 
