@@ -3,18 +3,12 @@ EES4725 - Digital Circuits and FPGA Design
 
 ## Reference Book - 
 #### D. Harris, S. Harris, Digital Design and Computer Architecture (1st ed.), Morgan Kaufmann, 2007 
-[Full Textbook Link from CSIT](http://www.csit-sun.pub.ro/courses/cn2/Digital_design_book/Digital%20Design%20and%20Computer%20Architecture.pdf) 
-
-[Chap4 on Verilog Link](./Reference/Chap4.pdf)
+[Full Textbook Link from CSIT](http://www.csit-sun.pub.ro/courses/cn2/Digital_design_book/Digital%20Design%20and%20Computer%20Architecture.pdf) , [Chap4 on Verilog Link](./Reference/Chap4.pdf)
 
 ## Reference Materials -
-#### IEEE Standard Verilog® Hardware Description Language
-[IEEE Std 1364-2001](http://www-inst.eecs.berkeley.edu/~cs150/fa06/Labs/verilog-ieee.pdf) 
+#### IEEE Standard Verilog® Hardware Description Language [Link1](http://www-inst.eecs.berkeley.edu/~cs150/fa06/Labs/verilog-ieee.pdf) , [Link2](./Reference/verilog-ieee.pdf)
 
-[Alternative Link](./Reference/verilog-ieee.pdf)
-
-#### Basys-3 Digilent Official Reference
-[Link](https://digilent.com/reference/programmable-logic/basys-3/start)
+#### [Basys-3 Digilent Official Reference [Link](https://digilent.com/reference/programmable-logic/basys-3/start)
 
 ## Module Organization and Materials
 
