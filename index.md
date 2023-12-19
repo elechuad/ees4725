@@ -17,8 +17,8 @@ EES4725 - Digital Circuits and FPGA Design
 
 | Date   | Lecture                                                                                                                              | Lecture Materials  | Lab             | Lab Materials    | Deliverables   |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ | --------------- | ---------------- | --------------- |
-| Monday <br> 11 Dec | Lecture 1 <br> Module Introduction <br> Review of number systems, binary arithmetic, 2's Complement <br> Introduction to Verilog               | Lecture3       | --              |  Lab 0 Vivado Installation Instructions |
-| Tuesday <br> 12 Dec | Lecture 2 <br> Review of boolean algebra, truth tables, logic gates, logic minimization and karnaugh maps. <br> Logic gates in Verilog        | Lecture4     | --              |                   |               |
+| Monday <br> 11 Dec | Lecture 1 <br> Module Introduction <br> Review of number systems, binary arithmetic, 2's Complement <br> Introduction to Verilog               | Lecture1       | --              |  Lab 0 Vivado Installation Instructions |
+| Tuesday <br> 12 Dec | Lecture 2 <br> Review of boolean algebra, truth tables, logic gates, logic minimization and karnaugh maps. <br> Logic gates in Verilog        | Lecture2     | --              |                   |               |
 | Wednesday <br> 13 Dec | --         |        | Lab 1 <br> Introduction to Vivado <br> Simulation/ Implementation of combinational logic       | 1. Lab 3 Manual <br> 2. [Basys3.xdc](#) <br> 3. How to Archive Project in Vivado 2018.02| Lab 1 Assignment - 5%<br> Deadline Sunday, 2359 17 Dec 23     |
 | Thursday <br> 14 Dec | Lecture 3 <br> Combinational logic in Verilog using dataflow, behavioural and structural modeling styles.           | Lecture3       | -- | |    |
 | Friday <br> 15 Dec | --         |       | Lab 2 - 5%  <br> Structural and Dataflow modeling of combinational logic  | Lab 2 Manual  | Lab Assignment 2 - 5% <br>Deadline Sunday, 2359 17 Dec 23         |
@@ -31,7 +31,7 @@ EES4725 - Digital Circuits and FPGA Design
 | Date   | Lecture                                                                                                                              | Lecture Materials  | Lab             | Lab Materials    | Deliverables   |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ | --------------- | ---------------- | --------------- |
 | Monday <br> 18 Dec | Lecture 3 <br> Review of sequential logic - Flip flops <br> Modeling sequential logic in Verilog  - FFs             | Lecture3      | --              |  -- |
-| Tuesday <br> 19 Dec | Lecture 4 <br> Review of sequential logic <br> Modeling sequential logic in Verilog  - Counters     | Lecture4      | --              |                   |               |
+| Tuesday <br> 19 Dec | Lecture 4 <br> Review of sequential logic - Counters <br> Modeling sequential logic in Verilog  - Counters     | Lecture4      | --              |                   |               |
 | Wednesday <br> 20 Dec | --         |        | Lab 3 - 5% <br>Simulation/ Implementation of sequential logic   - part 1                  | Lab 3 Manual | Lab 3 Assignment -5%<br> Deadline Sunday, 2359 24 Dec 23     |
 | Thursday <br> 21 Dec | Lecture 5 <br> Review of finite state machine design <br> Modeling FSMs in Verilog     | Lecture5       | -- | |    |
 | Friday <br> 22 Dec | --         |       | Lab 4 - 5%  <br> Simulation/ Implementation of sequential logic   - part 1  | Lab 4 Manual  | Lab Assignment 4 - 5% <br>Deadline Sunday, 2359 24 Dec 23         |
